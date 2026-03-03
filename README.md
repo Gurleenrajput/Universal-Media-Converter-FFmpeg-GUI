@@ -49,5 +49,5 @@ A cross-platform desktop application built with Python and PySide6 to provide a 
 This software, its documentation, and all associated files are the exclusive intellectual property of **Gurleen Rajput (Owner)**.  
 Unauthorized copying, modification, redistribution, or usage of this software, in whole or in part, is strictly prohibited without explicit written permission from the owner.  
 
-**Official Website:** [https://gurleenrajput.online](https://gurleenrajput.online)
+**Official Website:** [https://gurleenrajput.online](https://gurleenrajput.online)   
                       [https://gurleenrajput.in](https://gurleenrajput.in)
