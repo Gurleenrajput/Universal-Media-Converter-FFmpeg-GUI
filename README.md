@@ -50,3 +50,4 @@ This software, its documentation, and all associated files are the exclusive int
 Unauthorized copying, modification, redistribution, or usage of this software, in whole or in part, is strictly prohibited without explicit written permission from the owner.  
 
 **Official Website:** [https://gurleenrajput.online](https://gurleenrajput.online)
+                      [https://gurleenrajput.in](https://gurleenrajput.in)
