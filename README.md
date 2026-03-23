@@ -51,3 +51,5 @@ Unauthorized copying, modification, redistribution, or usage of this software, i
 
 **Official Website:** [https://gurleenrajput.online](https://gurleenrajput.online)   
                       [https://gurleenrajput.in](https://gurleenrajput.in)
+                      
+ **Email:**   mail@gurleenrajput.in
